@@ -1,5 +1,3 @@
-import os
-from pydoc import cli 
 from openai import OpenAI
 
 #Configurando cliente para que corra con ollama 
